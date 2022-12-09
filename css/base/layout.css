@@ -1,0 +1,18 @@
+.main-content {
+    width: 800px;
+    margin-top: 100px;
+    margin-left: calc(50% - 400px);
+}
+
+.left-col {
+    width: 40%;
+    padding: 40px;
+    float: left;
+    border: solid 2px red;
+}
+.right-col {
+    float: right;
+    width: 60%;
+    padding: 60px;
+    border: solid 2px rgb(255, 152, 25);
+}
