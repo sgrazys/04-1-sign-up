@@ -35,3 +35,6 @@
     line-height: 36px;
     text-decoration: none;
 }
+.form a:hover {
+    text-decoration: underline;
+}
