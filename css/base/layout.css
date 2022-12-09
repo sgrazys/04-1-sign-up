@@ -9,7 +9,11 @@
     padding: 40px;
     float: left;
     background-color:  #008fae;
-    color: #fff ;
+    background-image: url(../../img/img.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
 }
 
 .main-title {
