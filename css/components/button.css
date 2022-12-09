@@ -1,5 +1,4 @@
 .btn {
-    background-color: #204FD0;
     border: none;
     border-radius: 25px;
     font-size: 16px;
@@ -8,9 +7,12 @@
     text-transform: capitalize;
     padding: 0.5em 3em ;
     cursor: pointer;
-    transition: all 0.3s;
+    transition: all 0.4s;
+    background: rgb(192,85,200);
+    background: linear-gradient(90deg, #234ad5 0%, #0265de 100% );
 }
 
 .btn:hover {
     box-shadow: 0 2px 4px #0008;
+    background: linear-gradient(-90deg, #234ad5 0%, #0265de 100% );
 }   
