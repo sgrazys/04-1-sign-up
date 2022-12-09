@@ -1,0 +1,27 @@
+.form {
+    width: 100%;
+}
+
+.form > .form-row {
+    margin-bottom: 30px;
+}
+.form > :last-of-type {
+    margin-bottom: 0;
+}
+
+.form > .form-row > .label {
+    display: inline-block;
+    width: 100%;
+    text-transform: uppercase;
+    font-size: 10px;
+    color: #ccc;
+}
+
+.form > .form-row > .input {
+    width: 100%;
+    font-size: 14px;
+    line-height: 1em;
+    padding: 0.2em 0;
+    border: none;
+    border-bottom: 1px solid #ccc;
+}

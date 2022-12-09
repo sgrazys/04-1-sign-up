@@ -24,9 +24,6 @@
     margin-bottom: 4.2em;
 }
 
-.policies-links {
-}
-
 .policies-links .links {
     color: #fff;
 }
@@ -35,5 +32,5 @@
     float: right;
     width: 60%;
     padding: 60px;
-    background-color: #fff;
+    background-color: #fff
 }
