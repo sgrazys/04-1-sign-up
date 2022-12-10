@@ -6,9 +6,9 @@ _website design project_
 
 ## 🌟 About
 
-Responsive web design. This is my learning HTML and CSS project to get familiar with elements positioning. 
+This is my learning HTML and CSS project to get familiar with elements positioning. Desktop Only.
 
-Web page published at: [sgrazys.github.io/04-coming-soon/](https://sgrazys.github.io/04-1-sign-up/)
+Web page published at: [sgrazys.github.io/04-1-sign-up/](https://sgrazys.github.io/04-1-sign-up/)
 
 Design: [SIGN UP](./img/design.jpeg)
 
