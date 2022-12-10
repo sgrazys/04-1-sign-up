@@ -10,4 +10,10 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #8396d4;
     height: 100vh;
+    position: relative;
+    background-image: url(../../img/img.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(8px);
 }
