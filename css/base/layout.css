@@ -1,0 +1,48 @@
+.main-content {
+    width: 800px;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.left-col {
+    width: 40%;
+    padding: 30px;
+    background-color:  #008fae;
+    background-image: url(../../img/img.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+    position: absolute;
+    bottom: 25px;
+    top: 25px;
+    left: 0
+}
+
+.main-title {
+    width: 100%;
+    text-transform: capitalize;
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.policies-links {
+    position: absolute;
+    bottom: 15px;
+    left: 30px;
+    right: 30px;
+}
+.policies-links .links {
+    color: #fff;
+}
+
+.right-col {
+    float: right;
+    width: 60%;
+    padding: 60px;
+    background-color: #fff;
+    position: relative;
+}
